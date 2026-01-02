@@ -1,0 +1,5 @@
+input a1 a2 a3 ;
+result or (and a1 a2) (and a2 a3) (and a1 a3) ;
+output result ;
+
+input a1 ;
